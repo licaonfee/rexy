@@ -1,2 +1,3 @@
 # rexy
-Redis Proxy With sentinel support
+WIP
+Redis Proxy with sentinel support
